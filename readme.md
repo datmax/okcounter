@@ -2,7 +2,7 @@
 
 So, we have a teacher that says "ok" something like 100 times in an hour(for real).
 
-I decided it could have been a fun idea to make a program that counts how many okays she says automatically.
+I decided it would have been a fun idea to make a program that counts how many okays she says automatically.
 
 ## Set up
 
